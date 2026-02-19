@@ -1,9 +1,9 @@
 
 # 👩🏻‍💻 Dária Irmigard
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back-end`**
 
-Me chamo Dária Irmigard, tenho 29 anos e sou natural do São Paulo. Possuo formação técnica em Manutenção de Computadores e Redes pelo Instituto Mix. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonada por tecnologia e programação.
+Me chamo Dária Irmigard, tenho 29 anos e sou natural do São Paulo. Sou técnica em Manutenção de Computadores e Redes pelo Instituto Mix. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonada por tecnologia e programação.
 
 <p alinhar="esquerda">
   
@@ -74,16 +74,6 @@ Me chamo Dária Irmigard, tenho 29 anos e sou natural do São Paulo. Possuo form
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
